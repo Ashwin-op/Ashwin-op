@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ashwin</h1>
+<h1 align="center">Hi There 👋, I'm Ashwin</h1>
 
-<p align="left">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=ashwin-op" alt="ashwin-op" />
 </p>
 
