@@ -1,10 +1,13 @@
-<h1 align="center">Hi There 👋, I'm Ashwin</h1>
+<h1 align="center">Hi There 👋, I'm Ashwin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ashwin-op" alt="ashwin-op" />
 </p>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <br>
+
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Ashwin-op](https://github.com/Ashwin-op)
 
@@ -16,7 +19,7 @@
 
 - ⚡ Fun fact --> **I get lucky** 😎
 
-<br><br>
+<br><br><br><br>
 
 <p align="center">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>&nbsp;&nbsp;
@@ -35,7 +38,7 @@
 <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>&nbsp;&nbsp;
 <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p>
 
-<br><br>
+<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ashwin-op&show_icons=true" alt="ashwin-op" />
